@@ -2,7 +2,8 @@
 
 
 ## Database shema
-![](database_schema.png)
+
+![](database_shema.png)
 
 
 ## 🖋️ Author
