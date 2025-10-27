@@ -1,4 +1,4 @@
-# ClassicModels Data Analysis with Python + SQL
+# ClassicModels Sales Analysis with Python + SQL
 ## 📌 Project Overview 
 This project presents a comprehensive analysis of the ClassicModels database, which contains detailed information on customers, orders, products, and sales.
 The goal is to uncover patterns in sales performance, inventory levels, seasonality, customer behavior, and key drivers of profitability.
